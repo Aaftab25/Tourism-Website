@@ -17,12 +17,6 @@ nav{
 	color: #fff;
 	z-index: 999;
 }
-nav:hover{
-	width: 120%;
-	height: auto;
-	color: rgb(235, 19, 19);
-	z-index: 999;
-}
 .upper_navbar{
 	background-color: #112255; 
 }
